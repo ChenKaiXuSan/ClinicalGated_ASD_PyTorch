@@ -137,3 +137,6 @@ paper/
 # regenerated paper figures (copy into paper/<version>/figures manually)
 analysis/figures_out/*
 !analysis/figures_out/.gitkeep
+
+# local Claude Code worktrees
+.claude/worktrees/
